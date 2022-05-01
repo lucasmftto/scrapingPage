@@ -1,0 +1,4 @@
+name = "scrapingPage"
+
+[database]
+url = "sqlite:///beerlog.db"

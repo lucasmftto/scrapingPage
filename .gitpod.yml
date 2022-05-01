@@ -8,7 +8,8 @@ tasks:
       poetry config virtualenvs.in-project true &&
       poetry install &&
       poetry shell &&
-      beerlog
+      scrapingPage
+
 # Ports to expose on workspace startup
 # ports:
 #   - port: 8000

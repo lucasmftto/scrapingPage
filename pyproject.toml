@@ -27,6 +27,7 @@ black = {version = "^22.3.0", allow-prereleases = true}
 pytest = "^7.1.2"
 flake8 = "^4.0.1"
 requests = "^2.27.1"
+autopep8 = "^1.6.0"
 
 [tool.poetry.scripts]
 scrapingPage = "scrapingPage.__main__:main"
